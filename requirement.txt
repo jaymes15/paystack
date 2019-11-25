@@ -1,0 +1,4 @@
+django
+requests
+pytest
+pytest-django
